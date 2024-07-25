@@ -2,9 +2,9 @@
 
 ### Моя статистика GitHub
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dmityabondar&show_icons=true&theme=radical)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=dmityabondar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Chart.js lifehacks:
