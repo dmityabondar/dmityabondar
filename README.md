@@ -2,9 +2,8 @@
 
 ### Моя статистика GitHub
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dmityabondar&show_icons=true&theme=radical)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dmityabondar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmityabondar&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmityabondar&layout=compact&theme=transparent&hide_border=true&langs_count=10)
 
 
 ### Chart.js lifehacks:
