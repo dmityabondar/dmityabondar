@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dmityabondar | JavaScript Developer
+# 👋 Hi, I’m Dmitrii Bondar | JavaScript Developer
 
-* Chart.js lifehacks:
+Chart.js lifehacks:
    - [Speedometer](https://github.com/dmityabondar/chart-js-simple-speedometr)
