@@ -7,5 +7,3 @@ Hi there, I’m **Dmitrii Bondar** a **Frontend Developer**. With over 7+ years 
 - Telegram: <a href="https://t.me/dmityabro">@dmityabro</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/dmitrii-b-frontend/">Dmitrii Bondar</a>
 
-### Chart.js lifehacks:
-* Speedometer: [Show](https://github.com/dmityabondar/chart-js-simple-speedometr)
