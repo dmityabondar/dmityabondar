@@ -7,8 +7,5 @@ Hi there, I’m **Dmitrii Bondar** a **Frontend Developer**. With over 7+ years 
 - Telegram: <a href="https://t.me/dmityabro">@dmityabro</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/dmitrii-b-frontend/">Dmitrii Bondar</a>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmityabondar&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmityabondar&layout=compact&theme=transparent&hide_border=true&langs_count=10)
-
 ### Chart.js lifehacks:
 * Speedometer: [Show](https://github.com/dmityabondar/chart-js-simple-speedometr)
