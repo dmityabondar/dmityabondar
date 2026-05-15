@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Dmitya | JavaScript Developer
+# 👋 Hi, I’m Dmitya
 
-Hi there, I’m **Dmitrii Bondar** a **Frontend Developer**. With over 7+ years of experience, I've used a lot of tools and frameworks like **React**, **Vue** and **React Native** to develop user-friendly and responsive applications and websites. Skilled in code refactoring, code reviews, and optimizing web performance. I am currently considering offers for a **Frontend/Fullstack** position. I am open to remote, hybrid, or relocation opportunities.
+Senior Frontend Developer with 7+ years of experience building complex web applications across SaaS, EdTech, TravelTech and FinTech. Main stack: TypeScript, React, Vue. I work well in teams but can also operate independently. I take ownership of features end to end, always test my work and make sure edge cases are covered.
 
 ### Contact Me:
 - Email: <a href="mailto:dmityabro@gmail.com">dmityabro@gmail.com</a>
