@@ -5,5 +5,4 @@ Senior Frontend Developer with 7+ years of experience building complex web appli
 ### Contact Me:
 - Email: <a href="mailto:dmityabro@gmail.com">dmityabro@gmail.com</a>
 - Telegram: <a href="https://t.me/dmityabro">@dmityabro</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/dmitrii-b-frontend/">Dmitrii Bondar</a>
-
+- LinkedIn: <a href="https://www.linkedin.com/in/dmityabro-frontend/">Dmitrii Bondar</a>
